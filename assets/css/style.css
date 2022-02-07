@@ -574,10 +574,10 @@ section {
 }
 .btn1{
   text-decoration: none;
-  padding: 0.5rem 3rem;
+  padding: 0.5rem 2.5rem;
   border-radius: 20px;
   display: block;
-  margin-left: 0px;
+  margin-left: 2px;
   color: #fff;
   font-weight: bold;
   background: #0563bb;
