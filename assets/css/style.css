@@ -724,6 +724,17 @@ section {
   transition: .5s;
 }
 
+.image5{
+  background: url(./Pizza.png) left center no-repeat white;
+  background-size: 250px;
+  transition: .5s;
+}
+.image5:hover{
+  background: url(./Pizza.png) center center no-repeat #fff;
+  background-size: 500px;
+  transition: .5s;
+}
+
 /* .portfolio .portfolio-item {
   margin-bottom: 30px;
 }
